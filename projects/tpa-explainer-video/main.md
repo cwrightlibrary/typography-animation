@@ -77,3 +77,7 @@ A dynamic and engaging typography video with a modern, professional design that 
 **Text:** "Learn more today!"
 
 ***Icon:** A clickable website URL*
+
+### Resources
+
+Use [LuvVoice](https://luvvoice.com/) to generate the voice. Ava sounds good for this.
