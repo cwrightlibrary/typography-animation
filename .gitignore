@@ -1,6 +1,9 @@
 # Exclude virtual environment directories
 .venv/
 
+# macOS files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
