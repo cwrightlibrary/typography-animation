@@ -14,6 +14,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 
 **Text:** "What is a Third Party Administrator (TPA)?"
 
+---
+
 #### 2. Next Scene:
 
 **Text and simple icons animate on screen.**
@@ -21,6 +23,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 **Text:** "In healthcare, managing insurance plans can get... complicated. 🌀"
 
 ***Icon:** A pile of documents turning into a question mark*
+
+---
 
 #### 3. Scene Transition:
 
@@ -30,6 +34,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 
 ***Icon:** A person with a headset and clipboard*
 
+---
+
 #### 4. Scene:
 
 **Text explains the TPA role with smooth, concise animation.**
@@ -37,6 +43,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 **Text:** "A TPA is an independent organization that helps businesses and employees manage their health plans."
 
 ***Icon:** A handshake symbolizing collaboration*
+
+---
 
 #### 5. Next Scene:
 
@@ -48,6 +56,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 - "Customer Support ☎️"
 - "Plan Administration 🛠️"
 
+---
+
 #### 6. Scene Transition:
 
 **Text zooms into ‘independent’ with emphasis.**
@@ -56,6 +66,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 
 ***Icon:* A gear with a heart in the center**
 
+---
+
 #### 7. Scene:
 
 **Wrap up with the key benefit.**
@@ -63,6 +75,8 @@ A dynamic and engaging typography video with a modern, professional design that 
 **Text:** "Think of TPAs as the behind-the-scenes experts ensuring your healthcare plan runs smoothly, so you can focus on what matters most."
 
 ***Icon:* A family, smiling and happy**
+
+---
 
 #### 8. Closing Scene:
 
